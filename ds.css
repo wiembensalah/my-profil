@@ -1,0 +1,43 @@
+body {
+    font-family: Arial;
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 20px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+ol {
+    list-style-type: upper-roman;
+    width: 200px;
+    margin: auto;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+a:hover {
+    background-color: darkblue;
+}
